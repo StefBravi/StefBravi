@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there 👋, I'm Stefano Bravi
 
+Full Stack Developer dedicated to Front-End
 
-**StefBravi/StefBravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **my Final Project of "Soy Henry" Bootcamp**
+- 🌱 I’m currently learning **Full Stack Developer**
+- 👯 I’m looking to collaborate on **Front-end and Back-end projects**
+- 📫 How to reach me: **sb.bravi@gmail.com**
+- 😄 Pronouns: **Stef**
+- ⚡ Fun fact: **I like astronomy, watching series and movies and running**
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Client:** HTML, CSS, JavaScript, React, Redux, TailwindCSS
 
+**Server:** NodeJs, Express
+
+**Database:** PostgresSQL
+
+**Extras:** Git, Github, Vite, Trello
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-bravi-22a484177/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stef.bravi/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sb.bravi@gmail.com)
+
+## Authors
+
+- [@INachoMander](https://github.com/StefBravi)
