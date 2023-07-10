@@ -26,4 +26,4 @@ Full Stack Developer dedicated to Front-End
 
 ## Authors
 
-- [@INachoMander](https://github.com/StefBravi)
+- [@StefBravi](https://github.com/StefBravi)
