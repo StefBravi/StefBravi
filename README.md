@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Stefano Bravi
 
-Full Stack Developer dedicated to Front-End
+Front-End Developer with hard skills in UX Design
 
-- 🔭 I’m currently working on **my Final Project of "Soy Henry" Bootcamp**
-- 🌱 I’m currently learning **Full Stack Developer**
+- 🔭 I’m currently working on **Front-End project and UX Design course**
+- 🌱 I’m currently learning **Fron End Developer**
 - 👯 I’m looking to collaborate on **Front-end and Back-end projects**
 - 📫 How to reach me: **sb.bravi@gmail.com**
 - 😄 Pronouns: **Stef**
