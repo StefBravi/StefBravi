@@ -3,7 +3,7 @@
 Front-End Developer with hard skills in UX Design
 
 - 🔭 I’m currently working on **Front-End project and UX Design course**
-- 🌱 I’m currently learning **Fron End Developer**
+- 🌱 I’m currently learning **Front-End Developer**
 - 👯 I’m looking to collaborate on **Front-end and Back-end projects**
 - 📫 How to reach me: **sb.bravi@gmail.com**
 - 😄 Pronouns: **Stef**
