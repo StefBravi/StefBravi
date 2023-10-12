@@ -7,7 +7,7 @@ Frontend Developer with hard skills in relationships
 - 👯 I’m looking to collaborate on **Frontend projects**
 - 📫 How to reach me: **sb.bravi@gmail.com**
 - 😄 Pronouns: **Stef**
-- ⚡ Fun fact: **I like astronomy, watching series and movies and running**
+- ⚡ Fun fact: **I like astronomy, watching series and movies, and running**
 
 ## Tech Stack
 
