@@ -1,23 +1,19 @@
 # Hi there 👋, I'm Stefano Bravi
 
-Front-End Developer with hard skills in UX Design
+Frontend Developer with hard skills in relationships
 
-- 🔭 I’m currently working on **Front-End project and UX Design course**
-- 🌱 I’m currently learning **Front-End Developer**
-- 👯 I’m looking to collaborate on **Front-end and Back-end projects**
+- 🔭 I’m currently working on **Trabajo en Digital as Frontend Developer **
+- 🌱 I’m currently learning **Tailwind CSS and Next.js**
+- 👯 I’m looking to collaborate on **Frontend projects**
 - 📫 How to reach me: **sb.bravi@gmail.com**
 - 😄 Pronouns: **Stef**
 - ⚡ Fun fact: **I like astronomy, watching series and movies and running**
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JavaScript, React, Redux, TailwindCSS
+**Client:** HTML, CSS, JavaScript, React, Next.js, TailwindCSS
 
-**Server:** NodeJs, Express
-
-**Database:** PostgresSQL
-
-**Extras:** Git, Github, Vite, Trello
+**Extras:** Git, Github, Figma, Trello
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-bravi-22a484177/)
