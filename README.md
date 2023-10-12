@@ -2,7 +2,7 @@
 
 Frontend Developer with hard skills in relationships
 
-- 🔭 I’m currently working on **Trabajo en Digital as Frontend Developer **
+- 🔭 I’m currently working on **Trabajo en Digital as Frontend Developer**
 - 🌱 I’m currently learning **Tailwind CSS and Next.js**
 - 👯 I’m looking to collaborate on **Frontend projects**
 - 📫 How to reach me: **sb.bravi@gmail.com**
@@ -11,7 +11,7 @@ Frontend Developer with hard skills in relationships
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JavaScript, React, Next.js, TailwindCSS
+**Client:** HTML, CSS, JavaScript, React, Next.js, TailwindCSS, Redux
 
 **Extras:** Git, Github, Figma, Trello
 
