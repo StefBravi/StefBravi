@@ -11,7 +11,7 @@ Frontend Developer with hard skills in relationships
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JavaScript, React, Next.js, TailwindCSS, Redux
+**Client:** HTML, CSS, TypeScript, React, Next.js, TailwindCSS, Redux
 
 **Extras:** Git, Github, Figma, Trello
 
