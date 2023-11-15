@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Stefano Bravi
 
-Frontend Developer with hard skills in relationships
+React Developer with hard skills in relationships
 
 - 🔭 I’m currently working on **Trabajo en Digital as React Developer**
 - 🌱 I’m currently learning **Tailwind CSS and Next.js**
