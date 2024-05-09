@@ -2,7 +2,7 @@
 
 React Developer with hard skills in relationships
 
-- 🔭 I’m currently working on **Trabajo en Digital as React Developer**
+- 🔭 I’m currently working on **Trabajo en Digital as Frontend Developer**
 - 🌱 I’m currently learning **Tailwind CSS and Next.js**
 - 👯 I’m looking to collaborate on **Frontend projects**
 - 📫 How to reach me: **sb.bravi@gmail.com**
